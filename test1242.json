@@ -1,7 +1,7 @@
 {
    "ads": [
   {
-    "id": "sdm187",
+    "id": "sdm1",
     "admobBannerId": "ca-app-pub-7940991572665597/4682934472",
     "admobIntersId": "ca-app-pub-7940991572665597/2724917176",
     "fanBannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -9,6 +9,20 @@
     "interval": "3",
     "ironSourceAppKey": "116051f7d",
     "selectedAd": "unity",
+    "unityBannerId": "Banner_Android",
+    "unityGameId": "4880791",
+    "unityIntersId": "Interstitial_Android",
+    "unityTestMode": "false"
+  },
+  {
+    "id": "sdm187",
+    "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "admobIntersId": "ca-app-pub-3940256099942544/1033173712",
+    "fanBannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+    "fanIntersId": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+    "interval": "3",
+    "ironSourceAppKey": "116051f7d",
+    "selectedAd": "admob",
     "unityBannerId": "Banner_Android",
     "unityGameId": "4880791",
     "unityIntersId": "Interstitial_Android",
